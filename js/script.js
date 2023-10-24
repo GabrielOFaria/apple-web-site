@@ -1,6 +1,11 @@
 const buttons = document.querySelectorAll("#image-picker li");
 const image = document.querySelector("#product-image");
 
+const imagem = document.querySelector('#product-image');
+const menu = document.querySelector('#navbar');
+
+
+
 buttons.forEach((btn) => {
   btn.addEventListener("click", (e) => {
     buttons.forEach((btn) => {

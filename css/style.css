@@ -197,10 +197,13 @@ header nav{
 
 /* MOBILE */
 
+
+
 @media screen and (max-width: 480px){
     #navbar li{
         display: none;
     }
+    
     #navbar #logo{
         display: flex;
     }
@@ -216,7 +219,7 @@ header nav{
     }
     #main-content #subtitle{
         font-size: 3rem;
-    }
+    }   
 }
 
 @media screen and (max-width: 768px){
