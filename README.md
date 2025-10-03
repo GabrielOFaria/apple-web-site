@@ -22,7 +22,7 @@ A simple Apple-inspired landing page built with **HTML and CSS**.
 ## 🎥 Preview
 
 
-<video src="demo.mp4" controls autoplay loop muted width="600"></video>
+![Apple Website Demo](demo.gif)
 
 
 ---
