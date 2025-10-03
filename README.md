@@ -21,7 +21,6 @@ A simple Apple-inspired landing page built with **HTML and CSS**.
 
 ## 🎥 Preview
 
-
 ![Apple Website Demo](demo.gif)
 
 
